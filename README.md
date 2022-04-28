@@ -19,5 +19,5 @@ Guxtavuh
 <img src="https://img.shields.io/badge/Instagram-Guxxtavuhh-red"> 
 </div>
  <div align="center">
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </div>
