@@ -19,5 +19,5 @@ Guxtavuh
 <img src="https://img.shields.io/badge/Instagram-Guxxtavuhh-red"> 
 </div>
  <div align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+  </div>
