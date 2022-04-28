@@ -14,7 +14,7 @@ Guxtavuh
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
 </div>
-<div>
+<div align="center">
  <a href="https://www.instagram.com/guxxtavuhh/">
 <img src="https://img.shields.io/badge/Instagram-Guxxtavuhh-red"> 
 </div>
