@@ -1,6 +1,6 @@
 ## Olá seja bem vindo ao meu perfil 👋
 ### Sou um estudante de programação
-#### tenho 17 anos e estou cursando Técnico em Informática
+#### tenho 18 anos e estou cursando ciencias da computação e sou Técnico em Informática
 
 Guxtavuh
 <div id="header" align="center">
